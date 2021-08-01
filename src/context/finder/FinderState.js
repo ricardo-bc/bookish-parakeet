@@ -4,6 +4,7 @@ import axios from 'axios'
 import FinderContext from './finderContext'
 import FinderReducer from './finderReducer'
 import{
+    
     SEARCH_USERS,
     SET_LOADING,
     CLEAR_USERS,
